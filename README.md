@@ -1,7 +1,9 @@
 # EXP-6 Read-from-CSV
 ## Date: 31.10.2023
 ## AIM:
+To write a python program for reading content from a CSV file.
 
+ALGORITHM:
 ## ALGORITHM:
 ### Step 1: Import pandas as pd.
 ### Step 2: Read the CSV file using read_csv method.
